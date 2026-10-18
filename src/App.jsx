@@ -99,6 +99,7 @@ export default function App() {
 
       <footer className="footer">
         <p>FamFlix · Our family archive · Made with love</p>
+        <p><a className="footer__link" href={`${import.meta.env.BASE_URL}media/CREDITS.html`}>Photo &amp; video credits</a></p>
       </footer>
 
       {selected && (
