@@ -25,7 +25,7 @@ export const events = [
   { id: 1, category: 'family', title: 'Sunday Lunch at Aaji’s', year: 2025, location: 'Pune', description: 'The whole family around one table — three generations, endless stories and way too much food.', thumbnail: '/media/event-1.jpg', video: '/media/event-1.mp4', featured: true },
   { id: 2, category: 'family', title: 'Cousins Reunion', year: 2024, location: 'Nashik', description: 'First time in ten years that every cousin made it under one roof.', thumbnail: '/media/event-2.jpg', video: '/media/event-2.mp4' },
   { id: 3, category: 'family', title: 'New Home Griha Pravesh', year: 2023, location: 'Mumbai', description: 'Welcoming everyone into the new house with a small puja and a big dinner.', thumbnail: '/media/event-3.jpg', video: '/media/event-3.mp4' },
-  { id: 4, category: 'family', title: 'Grandparents’ 50th Anniversary', year: 2022, location: 'Pune', description: 'Fifty years together — speeches, old photographs and happy tears.', thumbnail: null, video: null },
+  { id: 4, category: 'family', title: 'Grandparents’ 50th Anniversary', year: 2022, location: 'Pune', description: 'Fifty years together — speeches, old photographs and happy tears.', thumbnail: '/media/event-4.jpg', video: '/media/event-4.mp4' },
   { id: 5, category: 'family', title: 'Monsoon Picnic', year: 2021, location: 'Lonavala', description: 'Rain, bhajiyas and a very muddy game of cricket.', thumbnail: '/media/event-5.jpg', video: '/media/event-5.mp4' },
 
   { id: 6, category: 'family', title: 'Aaji’s 80th Birthday Lunch', year: 2026, location: 'Pune', description: 'Eighty candles, one very proud Aaji and a surprise video from the grandkids.', thumbnail: '/media/event-6.jpg', video: '/media/event-6.mp4' },
